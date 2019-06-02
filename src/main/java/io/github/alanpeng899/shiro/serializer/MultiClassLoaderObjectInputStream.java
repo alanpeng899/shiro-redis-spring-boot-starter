@@ -1,4 +1,4 @@
-package com.alanpeng.shiro.serializer;
+package io.github.alanpeng899.shiro.serializer;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,4 +1,4 @@
-package com.alanpeng.shiro.filter;
+package io.github.alanpeng899.shiro.filter;
 
 import java.io.IOException;
 
@@ -12,7 +12,7 @@ import javax.servlet.ServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.annotation.Order;
 
-import com.alanpeng.shiro.dao.RedisSessionDAO;
+import io.github.alanpeng899.shiro.dao.RedisSessionDAO;
 
 /**
  * @author pengyq

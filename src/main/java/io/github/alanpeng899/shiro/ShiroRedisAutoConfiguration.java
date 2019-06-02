@@ -1,4 +1,4 @@
-package com.alanpeng.shiro;
+package io.github.alanpeng899.shiro;
 
 import java.util.List;
 
@@ -21,12 +21,12 @@ import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.serializer.StringRedisSerializer;
 import org.springframework.util.StringUtils;
 
-import com.alanpeng.shiro.dao.RedisSessionDAO;
-import com.alanpeng.shiro.filter.MyRemoveSessionFilter;
-import com.alanpeng.shiro.properties.ShiroRedisProperties;
-import com.alanpeng.shiro.serializer.ObjectSerializer;
-import com.alanpeng.shiro.util.ISimpleRedisUtil;
-import com.alanpeng.shiro.util.SimpleRedisUtil;
+import io.github.alanpeng899.shiro.dao.RedisSessionDAO;
+import io.github.alanpeng899.shiro.filter.MyRemoveSessionFilter;
+import io.github.alanpeng899.shiro.properties.ShiroRedisProperties;
+import io.github.alanpeng899.shiro.serializer.ObjectSerializer;
+import io.github.alanpeng899.shiro.util.ISimpleRedisUtil;
+import io.github.alanpeng899.shiro.util.SimpleRedisUtil;
 
 /**
  * @author pengyq

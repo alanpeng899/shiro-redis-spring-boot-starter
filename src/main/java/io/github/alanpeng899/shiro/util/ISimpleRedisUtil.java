@@ -1,4 +1,4 @@
-package com.alanpeng.shiro.util;
+package io.github.alanpeng899.shiro.util;
 
 import java.util.Set;
 import java.util.concurrent.TimeUnit;

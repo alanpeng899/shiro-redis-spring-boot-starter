@@ -1,4 +1,4 @@
-package com.alanpeng.shiro.dao;
+package io.github.alanpeng899.shiro.dao;
 
 import java.io.Serializable;
 import java.util.Collection;
@@ -15,8 +15,8 @@ import org.apache.shiro.session.mgt.eis.AbstractSessionDAO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.alanpeng.shiro.entity.SessionInMemory;
-import com.alanpeng.shiro.util.ISimpleRedisUtil;
+import io.github.alanpeng899.shiro.entity.SessionInMemory;
+import io.github.alanpeng899.shiro.util.ISimpleRedisUtil;
 
 /**
  * @author pengyq

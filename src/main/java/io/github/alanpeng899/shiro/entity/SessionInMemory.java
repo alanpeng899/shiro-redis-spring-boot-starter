@@ -1,4 +1,4 @@
-package com.alanpeng.shiro.entity;
+package io.github.alanpeng899.shiro.entity;
 
 import java.util.Date;
 

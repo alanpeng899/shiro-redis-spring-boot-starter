@@ -1,4 +1,4 @@
-package com.alanpeng.shiro.properties;
+package io.github.alanpeng899.shiro.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
