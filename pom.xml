@@ -103,7 +103,7 @@
 					<attach>true</attach>
 				</configuration>
 			</plugin>
-			<plugin>
+			<!-- <plugin>
 				<artifactId>maven-javadoc-plugin</artifactId>
 				<version>3.0.1</version>
 				<executions>
@@ -124,7 +124,7 @@
 						<link>http://docs.oracle.com/javase/8/docs/api</link>
 					</links>
 				</configuration>
-			</plugin>
+			</plugin> 
 			<plugin>
 				<artifactId>maven-gpg-plugin</artifactId>
 				<version>1.6</version>
@@ -140,7 +140,7 @@
 						</goals>
 					</execution>
 				</executions>
-			</plugin>
+			</plugin> -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
