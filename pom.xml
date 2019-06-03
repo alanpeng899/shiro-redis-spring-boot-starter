@@ -9,6 +9,7 @@
 
 	<name>shiro-redis-spring-boot-starter</name>
 	<url>http://maven.apache.org</url>
+	<description>shiro-redis-spring-boot-starter</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
