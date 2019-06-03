@@ -15,9 +15,9 @@ import org.springframework.core.annotation.Order;
 import io.github.alanpeng899.shiro.dao.RedisSessionDAO;
 
 /**
- * @author pengyq
- * @time 创建时间：2019年5月30日
- * @description 类说明：自定义ThreadLocal session删除过滤器，每次请求结束删除
+ * @author pengyq<br>
+ *  创建时间：2019年5月30日<br>
+ *  类说明：自定义ThreadLocal session删除过滤器，每次请求结束删除
  */
 @Order(1)
 public class MyRemoveSessionFilter implements Filter {

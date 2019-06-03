@@ -29,9 +29,9 @@ import io.github.alanpeng899.shiro.util.ISimpleRedisUtil;
 import io.github.alanpeng899.shiro.util.SimpleRedisUtil;
 
 /**
- * @author pengyq
- * @time 创建时间：2019年5月29日
- * @description 类说明：自定义shiro-redis自动配置类
+ * @author pengyq<br>
+ *  创建时间：2019年5月29日<br>
+ *  类说明：自定义shiro-redis自动配置类
  */
 @Configuration
 @EnableConfigurationProperties({ ShiroRedisProperties.class })

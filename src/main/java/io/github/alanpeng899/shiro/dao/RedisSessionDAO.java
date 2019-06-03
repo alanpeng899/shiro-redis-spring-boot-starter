@@ -19,9 +19,9 @@ import io.github.alanpeng899.shiro.entity.SessionInMemory;
 import io.github.alanpeng899.shiro.util.ISimpleRedisUtil;
 
 /**
- * @author pengyq
- * @time 创建时间：2019年5月29日
- * @description 类说明：重写shiro抽象类AbstractSessionDAO，实现redis读写session
+ * @author pengyq<br>
+ * 创建时间：2019年5月29日<br>
+ * 类说明：重写shiro抽象类AbstractSessionDAO，实现redis读写session
  */
 public class RedisSessionDAO extends AbstractSessionDAO {
 

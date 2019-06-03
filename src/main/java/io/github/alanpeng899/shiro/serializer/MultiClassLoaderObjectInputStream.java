@@ -9,9 +9,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @author pengyq
- * @time 创建时间：2019年5月30日
- * @description 类说明：
+ * @author pengyq<br>
+ *  创建时间：2019年5月30日<br>
+ *  类说明：
  */
 public class MultiClassLoaderObjectInputStream extends ObjectInputStream {
 

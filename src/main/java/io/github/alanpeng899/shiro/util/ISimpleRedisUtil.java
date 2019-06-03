@@ -4,9 +4,9 @@ import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author pengyq
- * @time 创建时间：2019年5月29日
- * @description 类说明：简易redis工具类接口
+ * @author pengyq<br>
+ *  创建时间：2019年5月29日<br>
+ *  类说明：简易redis工具类接口
  */
 public interface ISimpleRedisUtil {
 

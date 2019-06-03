@@ -11,9 +11,9 @@ import org.springframework.data.redis.serializer.RedisSerializer;
 import org.springframework.data.redis.serializer.SerializationException;
 
 /**
- * @author pengyq
- * @time 创建时间：2019年5月30日
- * @description 类说明：自定义object序列化，反序列化
+ * @author pengyq<br>
+ *  创建时间：2019年5月30日<br>
+ *  类说明：自定义object序列化，反序列化
  */
 public class ObjectSerializer implements RedisSerializer<Object> {
 

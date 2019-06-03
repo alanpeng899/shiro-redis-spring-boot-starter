@@ -3,9 +3,9 @@ package io.github.alanpeng899.shiro.properties;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
-* @author pengyq
-* @time 创建时间：2019年5月30日 
-* @description 类说明：shiro-redis全局配置属性
+* @author pengyq<br>
+*  创建时间：2019年5月30日<br> 
+*  类说明：shiro-redis全局配置属性
 */
 @ConfigurationProperties(prefix = "shiro-redis")
 public class ShiroRedisProperties {

@@ -6,9 +6,9 @@ import java.util.concurrent.TimeUnit;
 import org.springframework.data.redis.core.RedisTemplate;
 
 /**
- * @author pengyq
- * @time 创建时间：2019年5月31日
- * @description 类说明：简易redis工具类接口实现
+ * @author pengyq<br>
+ *  创建时间：2019年5月31日<br>
+ *  类说明：简易redis工具类接口实现
  */
 public class SimpleRedisUtil implements ISimpleRedisUtil {
 
